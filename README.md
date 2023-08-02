@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/> I'm Rajesh</h1> 
-<h3 align="center">I  am good at MERN stack, Aspirant to DevOps,  Intreset to contribute Open Sourece </h3>
+<h3 align="center">I  am good at MERN stack, Aspirant to DevOps,  Intreset to contribute Open Source </h3>
