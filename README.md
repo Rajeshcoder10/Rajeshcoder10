@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Rajeshcoder10/Rajeshcoder10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br/> I'm Rajesh</h1> 
+<h3 align="center">I  am good at MERN stack, Aspirant to DevOps,  Intreset to contribute Open Sourece </h3>
