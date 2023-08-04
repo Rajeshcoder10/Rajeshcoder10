@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 <br/> I'm Rajesh</h1> 
 <h3 align="center">I  am good at MERN stack, Aspirant to DevOps,  Intreset to contribute Open Source </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajeshcoder10&label=Profile%20views&color=0e75b6&style=flat" alt="Rajeshcoder10" /> </p>
+
+
+
+#### Stats 
+
+![Olivier's github stats](https://github-readme-stats.vercel.app/api?username=Rajeshcoder10&show_icons=true)
+
+
